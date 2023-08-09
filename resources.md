@@ -6,6 +6,10 @@
 
 - summary notes on [computing tools](http://cecileane.github.io/computingtools/pages/topics.html)
   e.g. git and shell commands
+- great [course on Julia](https://juliateachingctu.github.io/Julia-for-Optimization-and-Learning/stable/),
+  that you can do at your own pace and is easy to navigate.
+  It includes a great introduction to learn the basics of Julia,
+  and then more for optimization and machine learning.
 
 ---
 back [home](readme.md)
