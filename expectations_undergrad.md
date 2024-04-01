@@ -15,7 +15,8 @@ within 2 weeks of starting the project.
 - What are your expectations of me? of this research experience?
   You may look at these lists of questions to refine what you may want to ask me:
   * [action plan: what and how](https://docs.google.com/document/d/1DdQA4rMAdrPlMW7LMsE5pfBtDGZgKRBl/edit)
-  * [aligning expectations](https://docs.google.com/document/d/1wVS3m8cMTimmlPgZZksmRRUS8rD83GkQ/view):
+  * [aligning expectations](https://grad.ucdavis.edu/sites/g/files/dgvnsk9301/files/inline-files/questionnaire_aligning_expectations_in_mentoring_relationships_2018-05-1._.pdf):
+    <!-- used to be available [here](https://docs.google.com/document/d/1wVS3m8cMTimmlPgZZksmRRUS8rD83GkQ/view) -->
     this form could be filled out by both of us separately, before we meet
     to talk about it. Please check these out to pick topics of particular
     interest to you.
