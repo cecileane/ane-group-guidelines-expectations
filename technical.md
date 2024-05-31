@@ -14,16 +14,16 @@ and `xx` by some appropriate number.
 
 | name | number | RAM | number of cores
 | -----|--------|-----|----------------
-| darwin | 00 | 256 GB | 24
+| darwin | 00 | 256 GB | 24, but slower bus speed
 |   | 01 |  48 GB | 8 cores
 |   | 02 | 512 GB | 24 cores (2 threads each)
 |   | 03, 04, 05, 06 | 256 GB | 24 cores (2 threads each)
 |   | 12 |  64 GB | 8 cores
-|   | 13 | 128 GB | 24 cores (2 threads each)
+|   | 13 | 128 GB | 6 (or 12?) cores (4 (or 2?) threads each)
 | franklin | 00, 01, 02 | 1 TB | 64 cores (2 threads each)
 |   | 03 | 512 GB | 64 cores (2 threads each)
 
-darwin also has NVIDIA cuda capabilities (GPU)
+darwin13 also has NVIDIA cuda capabilities (GPU)
 
 All: 64 bits. 2.0-3.5 GHz
 (low GHz can be actually faster than high GHz with better 'bus' speed).  
@@ -41,6 +41,8 @@ already, and to check how busy the machine is, using 'top':
 ```shell
 top
 ```
+
+`htop` is useful too, use both.
 
 Doing `top` and checking the current usage (cpu and memory) of the machine is very important.
 
