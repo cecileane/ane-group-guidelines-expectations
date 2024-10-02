@@ -1,9 +1,12 @@
 - [advice to PhD students](https://www.ncbs.res.in/sites/default/files/users/sandhyab/PhDstudents.pdf)
 
 - I have several of these short books from
-  [ThinkWell](https://www.ithinkwell.com.au/for-phd-students), tailored
-  for PhD students.
-  I highly recommend them! Feel free to borrow any one of them from me.
+  [ThinkWell](https://www.ithinkwell.com.au/bookshop), and they have more
+  [for PhD students](https://www.ithinkwell.com.au/for-phd-students).
+  I highly recommend these books! Feel free to borrow any one of them from me.  
+  Among their free resources, this is a great ebook:
+  "[The Balanced Researcher](https://www.ithinkwell.com.au/free-books/ebook-the-balanced-researcher):
+  Strategies for busy researchers"
 
 - summary notes on [computing tools](http://cecileane.github.io/computingtools/pages/topics.html)
   e.g. git and shell commands
