@@ -31,5 +31,15 @@ for your career:
   `Login to Platform` (top banner) > `Through your Institution`
   then select UW-Madison.
 
+about phylogenetics:
+- [Husmeier, D. (2005)](https://doi.org/10.1007/1-84628-119-9_4)
+  chapter, "Introduction to Statistical Phylogenetics"
+- [Baum & Smith (2013)](https://store.macmillanlearning.com/us/product/Tree-Thinking-An-Introduction-to-Phylogenetic-Biology/p/1936221160)
+  "Tree Thinking: An Introduction to Phylogenetic Biology".
+  You welcome to borrow it from me.
+- [Scornavacca, Delsuc & Galtier (2020)](https://inria.hal.science/PGE/page/table-of-contents)
+  "Phylogenetics in the genomic era".
+  This book includes introductory chapters on various topics.
+
 ---
 back [home](readme.md)
