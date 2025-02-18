@@ -31,6 +31,10 @@ about computing:
   It includes a great introduction to learn the basics of Julia,
   and then more for optimization and machine learning.
 - blog post: [Julia for R users](https://vituri.github.io/blog/posts/julia-for-r-users/julia-for-r-users.html)
+- [Kevin Bonham's course](https://bisc195.wellesley.edu)
+  "Essential Skills for Computational Biology" using julia,
+  based on the free online book
+  [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 
 
 about phylogenetics:
