@@ -35,6 +35,9 @@ about computing with Julia:
   Check their [useful materials](https://juliateachingctu.github.io/Julia-for-Optimization-and-Learning/stable/#Useful-materials)
   for links to cheatsheets and others workshops
 - blog post: [Julia for R users](https://vituri.github.io/blog/posts/julia-for-r-users/julia-for-r-users.html)
+- [Research Software Engineering](https://vchuravy.dev/rse-course/) with Julia,
+  includes topics on parallelization, automatic differentiation, and git:
+  lots to learn from this course beyond Julia
 - [Kevin Bonham's course](https://bisc195.wellesley.edu)
   "Essential Skills for Computational Biology" using julia,
   based on the free online book
