@@ -44,6 +44,10 @@ about computing with Julia:
   [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 - [Zero2Hero](https://github.com/Datseris/Zero2Hero-JuliaWorkshop)
   julia workshop
+- [MoJuWo](https://modernjuliaworkflows.org): Modern Julia Workflows,
+  especially [writing your code](https://modernjuliaworkflows.org/writing/):
+  from installing julia, to choosing an editor, developing a package,
+  and to debugging.
 
 about phylogenetics:
 - [Husmeier, D. (2005)](https://doi.org/10.1007/1-84628-119-9_4)
