@@ -58,8 +58,11 @@
   * be intentional to make connections with others doing similar research:
     let's talk about how can help make these connections.
 
-- Follow [computing](technical.md) and technical guidelines.
+- Follow [computing](technical.md) and technical guidelines
 
+- Follow expectations for [generative AI](generativeAI.md) use.  
+  Tell me if you have expectations about using AI that prepares you
+  for the career you envision, to fit into your professional development.
 
 ---
 back [home](readme.md)
